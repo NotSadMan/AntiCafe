@@ -1,0 +1,7 @@
+2025-12-07 21:43:46 [main] INFO  com.anticafe.Main - Запуск приложения Антикафе
+2025-12-07 21:43:46 [main] DEBUG com.anticafe.service.AnticafeService - Создано 10 столиков
+2025-12-07 21:43:46 [main] INFO  com.anticafe.service.AnticafeService - Антикафе инициализировано. Цена за минуту: 2.0 руб.
+2025-12-07 21:43:46 [main] INFO  com.anticafe.ui.ConsoleUI - Запуск консольного интерфейса
+2025-12-07 21:43:48 [main] INFO  com.anticafe.service.AnticafeService - Столик 1 занят гостями
+2025-12-07 21:43:49 [main] INFO  com.anticafe.ui.ConsoleUI - Завершение работы интерфейса
+2025-12-07 21:43:49 [main] INFO  com.anticafe.Main - Приложение завершено

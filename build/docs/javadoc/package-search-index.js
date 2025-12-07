@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.anticafe"},{"l":"com.anticafe.model"},{"l":"com.anticafe.service"},{"l":"com.anticafe.ui"}];updateSearchResults();

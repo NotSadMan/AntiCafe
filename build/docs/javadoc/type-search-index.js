@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.anticafe.service","l":"AnticafeService"},{"p":"com.anticafe.ui","l":"ConsoleUI"},{"p":"com.anticafe","l":"Main"},{"p":"com.anticafe.service","l":"StatisticsService"},{"p":"com.anticafe.model","l":"Table"},{"p":"com.anticafe.model","l":"VisitRecord"}];updateSearchResults();
